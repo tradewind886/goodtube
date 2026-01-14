@@ -507,7 +507,7 @@
 			// Otherwise we're using the regular method
 			else {
 				// Hide the Youtube player
-				youtubePlayer.style.visibility = 'hidden';
+				youtubePlayer.style.visibility = 'visible';
 			}
 		}
 
